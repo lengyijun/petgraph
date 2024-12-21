@@ -6,6 +6,7 @@
 
 pub mod astar;
 pub mod bellman_ford;
+pub mod bidirectional_dijkstra;
 pub mod dijkstra;
 pub mod dominators;
 pub mod feedback_arc_set;
